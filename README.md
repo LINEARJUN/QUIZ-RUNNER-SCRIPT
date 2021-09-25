@@ -1,10 +1,6 @@
 # QUIZ RUNNER PROTO
 > 환웅신화
-
-[![Build Status][travis-image]][travis-url]
-
-연합 동아리하면서 진행한 간단한 게임 개발 프로젝트
-
+> 
 ![](header.png)
 
 ## Installation
