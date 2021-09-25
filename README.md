@@ -1,7 +1,5 @@
 # QUIZ RUNNER PROTO
 > 환웅신화
-> 
-![](header.png)
 
 ## Installation
 
