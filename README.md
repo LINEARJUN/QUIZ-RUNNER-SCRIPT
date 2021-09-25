@@ -3,7 +3,7 @@
 
 [![Build Status][travis-image]][travis-url]
 
-One to two paragraph statement about your product and what it does.
+연합 동아리하면서 진행한 간단한 게임 개발 프로젝트
 
 ![](header.png)
 
